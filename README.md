@@ -15,7 +15,6 @@
 - Inter at a ERNI Swiss software engineering
 - Contribute to an open source project
 - Exposure to a tech company to learn different tech stack
-- Talk to a Software Engineers
 
 ## 🤝 I'm looking to collaborate on
 - Open source projects related to the my In Progress Skills
