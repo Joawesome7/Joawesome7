@@ -4,8 +4,8 @@
 
 ## About Me
 📖 Information System Student at [Kolehiyo ng Lungsod ng Dasmariñas]
+🎓 Expected graduation: [2025]
 🚀 Aspire to be Software Engineer
-🎓 Expected graduation: [2024]
 💡  Passionate about creating user-friendly web applications
 
 ## 🔨 Skills (In Progress)
