@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Jojo Java 👋
+# Hello, I'm Jojo Java 👋
 
 ## About Me
 📖 Information System Student at [Kolehiyo ng Lungsod ng Dasmariñas]
