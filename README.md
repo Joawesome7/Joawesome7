@@ -1,8 +1,8 @@
 # Hello, I'm Jojo Java 👋
 
 ## About Me
-📖 Information System Student at [Kolehiyo ng Lungsod ng Dasmariñas]
-🎓 Expected graduation: [2025]
+📖 Information System Student at Kolehiyo ng Lungsod ng Dasmariñas
+🎓 Expected graduation: 2025
 🚀 Aspire to be Software Engineer
 💡  Passionate about creating user-friendly web applications
 
@@ -12,7 +12,7 @@
 - Tools: Git, PostgreSQL, MySQL, Postman, Sequelize
 
 ## 🎯 Goals
-- Inter at a ERNI Swiss software engineering
+- Intern at a ERNI Swiss software engineering
 - Contribute to an open source project
 - Exposure to a tech company to learn different tech stack
 
