@@ -10,7 +10,7 @@
 - Languages: JavaScript, TypeScript, HTML, CSS
 - Frameworks: React, NodeJs, Express, Tailwind
 - Tools: Git, PostgreSQL, MySQL, Postman, Sequelize
-- Others: Googling, Reading Docs (I learn best by reading docs)
+- Other: Googling, Reading Docs (I learn best by reading docs)
 
 ## 🎯 Goals
 - Intern at a ERNI Swiss software engineering
