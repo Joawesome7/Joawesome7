@@ -9,7 +9,7 @@
 ## 🔨 Skills (In Progress)
 - Languages: JavaScript, TypeScript, HTML, CSS
 - Frameworks: React, NodeJs, Express, Tailwind
-- Tools: Git, PostgreSQL, MySQL, Postman, Sequelize
+- Tools: Git, PostgreSQL, MySQL, Postman, Prisma
 - Other: Googling, Reading Docs (I learn best by reading docs)
 
 ## 🎯 Goals
