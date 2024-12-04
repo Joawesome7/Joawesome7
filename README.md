@@ -4,7 +4,7 @@
 📖 Information System Student
 🎓 Expected graduation: 2025
 🚀 Aspire to be Software Engineer
-💡  Passionate about creating user-friendly web applications
+💡  Passionate about creating web applications
 
 ## 🔨 Skills (In Progress)
 - Languages: JavaScript, TypeScript, HTML, CSS
