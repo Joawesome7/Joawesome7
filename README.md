@@ -6,7 +6,7 @@
 🚀 Aspire to be Software Engineer
 💡  Passionate about creating web applications
 
-## 🔨 Skills (In Progress)
+## 🔨 Skills
 - Languages: JavaScript, TypeScript, HTML, CSS
 - Frameworks: React, NodeJs, Express, PostgreSQL, Prisma, 
 - Tools: Git, Docker
