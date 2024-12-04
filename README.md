@@ -1,19 +1,19 @@
 # Hello, I'm Jojo Java 👋
 
 ## About Me
-📖 Information System Student at Kolehiyo ng Lungsod ng Dasmariñas
+📖 Information System Student
 🎓 Expected graduation: 2025
 🚀 Aspire to be Software Engineer
 💡  Passionate about creating user-friendly web applications
 
 ## 🔨 Skills (In Progress)
 - Languages: JavaScript, TypeScript, HTML, CSS
-- Frameworks: React, NodeJs, Express, Tailwind
-- Tools: Git, PostgreSQL, MySQL, Postman, Prisma
-- Other: Googling, Reading Docs (I learn best by reading docs)
+- Frameworks: React, NodeJs, Express, PostgreSQL, Prisma, 
+- Tools: Git, Docker
+- Other: Googling
 
 ## 🎯 Goals
-- Intern at a ERNI Swiss software engineering
+- Internship at any software engineering firm
 - Contribute to an open source project
 - Exposure to a tech company to learn different tech stack
 
