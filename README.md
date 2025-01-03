@@ -11,12 +11,12 @@
 - Frameworks: React, NodeJs, Express, PostgreSQL, Prisma, 
 - Tools: Git, Docker
 - Other: Googling
-
+<!--
 ## 🎯 Goals
 - Internship at any software engineering firm
 - Contribute to an open source project
 - Exposure to a tech company to learn different tech stack
-
+-->
 ## 🤝 I'm looking to collaborate on
 - Open source projects related to the my In Progress Skills
 - Real world projects that software engineer do
